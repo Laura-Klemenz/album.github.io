@@ -9,14 +9,15 @@ h1{
 }
 .line{
     width:100%;
-    border-bottom:2px solid #4C4C4C;
+    border-bottom:2p
+x solid #4C4C4C;
 }
 .image-wrapper {
     width:25%;
     float: left;
 }
 .cover-image {
-    max-width: 150px;
+    max-width: 100px;
     width:90%;
     padding: 5%;
     margin: auto;
@@ -48,5 +49,4 @@ input{
     color: #04052e;
     font-weight: 300;
 }
-
 
